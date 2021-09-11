@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sammyzee
+- 👋 Hi, I’m Wenxin
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking for a boyfriend
